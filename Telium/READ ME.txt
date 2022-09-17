@@ -1,3 +1,0 @@
-to get the game to run place the Telium file in C:/
-
-then you can put Telium.bat anywhere in C:/ that you want and play the game
